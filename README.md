@@ -9,11 +9,10 @@ Esse repositório tem como objetivo subir uma máquina virtual utilizando Vagran
 Após efetuado o clone do projeto, para iniciar a VM, é necessário rodar o comando:
 * vagrant up
 
-## Testar o MySql
+## Testar MySql
 Por SSH:
 * vagrant ssh
 * sudo mysql -uroot
 
 Por interface gráfica:
 * Apontar para endereço localhost:3306, usuário root
-
